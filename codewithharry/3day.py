@@ -3,6 +3,6 @@
 #pip - pip is windows package manager for install package from internet. Using pip command we can import external package from internet and we can use in our program.
 
 #external module - you need to download from internet
-import pandas
+# import pandas
 #built in module - In built python module
-import hashlib
+# import hashlib
